@@ -12,4 +12,4 @@ set up repo with readme, git config, and empty project files
 
 ## Reflections
 
-Your write up will go here
+double jump and sprint
